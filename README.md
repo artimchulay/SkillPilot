@@ -1,1 +1,1 @@
-Код сайта SkillPilot.html. запуск страницы index.html
+Код сайта SkillPilot.html. Запуск страницы index.html
